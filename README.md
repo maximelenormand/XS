@@ -59,4 +59,4 @@ The script **Main.R** runs the function **XS.R** which returns a list containing
 - [Paul Chapron](https://github.com/chapinux)
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
-You can reach me at maxime.lenormand[at]irstea.fr
+You can reach me at maxime.lenormand[at]inrae.fr
